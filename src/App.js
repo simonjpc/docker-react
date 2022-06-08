@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Bye There!
+          Message changed from master branch
         </p>
         <a
           className="App-link"
